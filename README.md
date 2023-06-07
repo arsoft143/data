@@ -59,7 +59,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>Kannada</td><td align="right">15</td><td nowrap><code>https://iptv-org.github.io/iptv/index.m3u</code></td></tr>
+    <tr><td>Kannada</td><td align="right">15</td><td nowrap><code>https://github.com/arsoft143/data/index.m3u</code></td></tr>
     <tr><td>Hindi</td><td align="right">44</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
     <tr><td>Telugu</td><td align="right">53</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>Tamil</td><td align="right">54</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>

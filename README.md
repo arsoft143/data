@@ -283,21 +283,7 @@ Same thing, but split up into separate files:
     <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santa Fe</td><td align="right">6</td><td nowrap><code>https://iptv-org.github.io/iptv/subdivisions/ar-s.m3u</code></td></tr>
     <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santiago del Estero</td><td align="right">1</td><td nowrap><code>https://iptv-org.github.io/iptv/subdivisions/ar-g.m3u</code></td></tr>
     <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tucuman</td><td align="right">6</td><td nowrap><code>https://iptv-org.github.io/iptv/subdivisions/ar-t.m3u</code></td></tr>
-    <tr><td>🇦🇲 Armenia</td><td align="right">41</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/am.m3u</code></td></tr>
-    <tr><td>🇦🇼 Aruba</td><td align="right">6</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/aw.m3u</code></td></tr>
-    <tr><td>🇦🇺 Australia</td><td align="right">39</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/au.m3u</code></td></tr>
-    <tr><td>🇦🇹 Austria</td><td align="right">50</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/at.m3u</code></td></tr>
-    <tr><td>🇦🇿 Azerbaijan</td><td align="right">34</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/az.m3u</code></td></tr>
-    <tr><td>🇧🇸 Bahamas</td><td align="right">7</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bs.m3u</code></td></tr>
-    <tr><td>🇧🇭 Bahrain</td><td align="right">36</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bh.m3u</code></td></tr>
-    <tr><td>🇧🇩 Bangladesh</td><td align="right">53</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bd.m3u</code></td></tr>
-    <tr><td>🇧🇧 Barbados</td><td align="right">6</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bb.m3u</code></td></tr>
-    <tr><td>🇧🇾 Belarus</td><td align="right">42</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/by.m3u</code></td></tr>
-    <tr><td>🇧🇪 Belgium</td><td align="right">60</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/be.m3u</code></td></tr>
-    <tr><td>🇧🇿 Belize</td><td align="right">8</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bz.m3u</code></td></tr>
-    <tr><td>🇧🇯 Benin</td><td align="right">14</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bj.m3u</code></td></tr>
-    <tr><td>🇧🇲 Bermuda</td><td align="right">5</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bm.m3u</code></td></tr>
-    <tr><td>🇧🇹 Bhutan</td><td align="right">7</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bt.m3u</code></td></tr>
+    
     <tr><td>🇧🇴 Bolivia</td><td align="right">85</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/bo.m3u</code></td></tr>
     <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oruro</td><td align="right">1</td><td nowrap><code>https://iptv-org.github.io/iptv/subdivisions/bo-o.m3u</code></td></tr>
     <tr><td>🇧🇦 Bosnia and Herzegovina</td><td align="right">29</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/ba.m3u</code></td></tr>

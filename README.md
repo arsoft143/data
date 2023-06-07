@@ -102,7 +102,7 @@ Same thing, but split up into separate files:
 Playlist in which each channel has its _language_ as a group title:
 
 ```
-https://iptv-org.github.io/iptv/index.language.m3u
+https://iptv-org.github.io/iptv/index.language.m3
 ```
 
 Same thing, but split up into separate files:

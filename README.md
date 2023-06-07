@@ -30,7 +30,7 @@ There are several versions of playlists that differ in the way they are grouped.
 Playlist includes all known channels except adult channels.
 
 ```
-https://iptv-org.github.io/iptv/index.m3u
+https://github.com/arsoft143/data/index.m3u
 ```
 
 And here is the full version:

@@ -36,7 +36,7 @@ https://iptv-org.github.io/iptv/index.m3u
 And here is the full version:
 
 ```
-https://iptv-org.github.io/iptv/index.nsfw.m3
+https://iptv-org.github.io/iptv/index.nsfw.m3u
 ```
 
 ### Grouped by category
@@ -48,7 +48,7 @@ https://iptv-org.github.io/iptv/index.nsfw.m3
 Playlist in which each channel has its _category_ as a group title:
 
 ```
-https://iptv-org.github.io/iptv/index.category.m3
+https://iptv-org.github.io/iptv/index.category.m3u
 ```
 
 Same thing, but split up into separate files:

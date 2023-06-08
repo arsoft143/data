@@ -1,3 +1,43 @@
+# IPTV
+
+Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+
+## Table of contents
+
+- 🚀 [How to use?](#how-to-use)
+- 📺 [Playlists](#playlists)
+- 🗄 [Database](#database)
+- 👨‍💻 [API](#api)
+- 📚 [Resources](#resources)
+- 💬 [Discussions](#discussions)
+- ❓ [FAQ](#faq)
+- 🛠 [Contribution](#contribution)
+- ⚖ [Legal](#legal)
+- © [License](#license)
+
+## How to use?
+
+Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
+
+![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
+
+## Playlists
+
+There are several versions of playlists that differ in the way they are grouped.
+
+### Main playlist
+
+Playlist includes all known channels except adult channels.
+
+```
+https://iptv-org.github.io/iptv/index.m3u
+```
+
+And here is the full version:
+
+```
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+```
 
 ### Grouped by category
 
@@ -19,7 +59,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>Kannada</td><td align="right">15</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u></td></tr>
+    <tr><td>Kannada</td><td align="right">15</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
     <tr><td>Hindi</td><td align="right">44</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
     <tr><td>Telegu</td><td align="right">53</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>Tamil</td><td align="right">54</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
